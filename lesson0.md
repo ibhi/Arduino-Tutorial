@@ -9,8 +9,6 @@ For this lesson you will need some stuff! Make sure you have this stuff or you w
 * Assembled Arduino board, preferrably an Uno ![Arduino Uno](images/ArduinoUno.jpg)
 
 
-
-### Do you have everything you need?
 * USB Cable. Standard A-B cable is required. Any length is OK
 ![USB Cable](images/cable-usb-type-a-b-arduino-uno.jpg)
 3. 9V DC power plug with 2.1mm barrel plug, positive tip (*Optional*)
